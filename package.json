@@ -19,5 +19,10 @@
     "zone.js": "^0.6.26",
     "jquery": "^3.1.1",
     "material-design-lite":"^1.2.1"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.34",
+    "@types/node": "^6.0.45",
+    "typescript": "^2.0.3"
   }
 }
